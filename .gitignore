@@ -7,3 +7,4 @@ _src/
 _preview-server.mjs
 source-material/
 gpt-input/
+.assets-lock.json
